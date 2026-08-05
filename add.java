@@ -1,0 +1,2 @@
+class load variable
+
